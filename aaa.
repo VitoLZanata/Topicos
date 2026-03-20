@@ -1,0 +1,3 @@
+npx create-expo-app@latest --template blank-typescript@sdk-54
+npx expo start --tunnel
+react native
