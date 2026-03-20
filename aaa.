@@ -1,3 +1,6 @@
 npx create-expo-app@latest --template blank-typescript@sdk-54
 npx expo start --tunnel
 react native
+
+tem q dar npm install pra funcionar toda vez q logar
+ai tira a pasta antes de commitar
